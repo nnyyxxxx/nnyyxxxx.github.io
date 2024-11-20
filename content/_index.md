@@ -23,7 +23,7 @@ I'm a maintainer at [hyprutils](https://github.com/hyprutils), where I work on s
 
 # Contact
 - Email: [gay@nnyyxxxx.gay](mailto:gay@nnyyxxxx.gay)
-- Discord: @nnyyxxxx
+- Discord: @nnyxxxx
 
 # Sponsors
 - [Adam Perkowski](https://github.com/adamperkowski)
