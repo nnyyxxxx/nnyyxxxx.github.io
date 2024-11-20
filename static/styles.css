@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/static/baddie.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #f0f0f0;
+}
+
+.quote-container {
+    max-width: 600px;
+    padding: 2rem;
+    text-align: center;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: rgba(26, 26, 26, 0.8);
+    box-shadow: 0 4px 8px #151515;
+    backdrop-filter: blur(2px);
+}
+
+.quote {
+    font-size: 1.5rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.author {
+    font-style: italic;
+    text-align: right;
+    font-size: 1.2rem;
+}
