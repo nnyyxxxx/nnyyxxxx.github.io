@@ -45,7 +45,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL https://nnyyxxxx.github.io
+            --baseURL https://nnyyxxxx.gay
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
