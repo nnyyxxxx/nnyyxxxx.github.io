@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on nnyyxxxx</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on nnyyxxxx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>//localhost:1313/blog/hello-world/</link>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/blog/hello-world/</guid>
+      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+&lt;p&gt;This is my first blog post. I&amp;rsquo;ll be writing about various topics including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming (mainly Rust)&lt;/li&gt;
+&lt;li&gt;Linux ricing&lt;/li&gt;
+&lt;li&gt;Other stuff&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;why-i-started-this-blog&#34;&gt;Why I Started This Blog&lt;/h1&gt;
+&lt;p&gt;I wanted a place to document my journey and share my experiences with others who might be interested in similar topics.&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;
+&lt;p&gt;This is my first blog post. I&amp;rsquo;ll be writing about various topics including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming (mainly Rust)&lt;/li&gt;
+&lt;li&gt;Linux ricing&lt;/li&gt;
+&lt;li&gt;Other stuff&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;why-i-started-this-blog&#34;&gt;Why I Started This Blog&lt;/h1&gt;
+&lt;p&gt;I wanted a place to document my journey and share my experiences with others who might be interested in similar topics.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

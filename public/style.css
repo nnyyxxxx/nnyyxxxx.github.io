@@ -1,0 +1,36 @@
+:root {
+  --background: #0f0f0f;
+  --foreground: #dadadb;
+  --accent: #ff6188;
+  --font-size: 1rem;
+  --line-height: 1.54rem;
+  --radius: 4px;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+a {
+  color: var(--accent);
+}
+
+.logo {
+  background: var(--accent);
+  color: var(--background);
+}
+
+.header__logo::after {
+  background: repeating-linear-gradient(90deg, var(--accent), var(--accent) 2px, transparent 0, transparent 10px);
+}
+
+code, kbd {
+  color: var(--accent);
+  background: color-mix(in srgb, var(--foreground) 5%, transparent);
+}
+
+pre {
+  background: color-mix(in srgb, var(--foreground) 5%, transparent) !important;
+  border: 1px solid color-mix(in srgb, var(--foreground) 10%, transparent);
+} 
