@@ -24,3 +24,6 @@ I'm a maintainer at [hyprutils](https://github.com/hyprutils), where I work on s
 # Contact
 - Email: [nnyyxxx@protonmail.com](mailto:nnyyxxx@protonmail.com)
 - Discord: @nnyyxxxx
+
+# Sponsors
+- [Adam Perkowski](https://github.com/adamperkowski)
