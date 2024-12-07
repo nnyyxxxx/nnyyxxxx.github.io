@@ -29,9 +29,3 @@ copyright = " "
     [languages.en.params.logo]
       logoText = "nnyyxxxx"
       logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "rices"
-        name = "Rices"
-        url = "/rices"
