@@ -5,7 +5,7 @@ framed = true
 # Hello World
 
 My name is nyx, I do programming and other things as a hobby; my main focuses right now are Rust, 
-and other languages. I'm currently interested in learning Zig as well.
+and other languages. I'm currently interested in learning Ruby as well.
 
 ### Links
 - [GitHub](https://github.com/nnyyxxxx)
