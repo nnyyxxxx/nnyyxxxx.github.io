@@ -12,7 +12,7 @@ and other languages. I'm currently interested in learning Ruby as well.
 - [Reddit](https://www.reddit.com/user/nnyyxxxxx/)
 
 ### Projects
-- [zbench](https://github.com/nnyyxxxx/zbench) - Terminal benchmarking program, technically a rewrite of [vtebench](https://github.com/alacritty/vtebench) in zig
+- [zbench](https://github.com/nnyyxxxx/zbench) - Terminal benchmarking, made possible with zig. 
 - [auth](https://github.com/nnyyxxxx/auth) - Authenticator TUI made in rust, generate totps on the fly
 
 ---
