@@ -67,7 +67,7 @@ dd {
 
 a {
     color: #CA9873;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a:hover {
