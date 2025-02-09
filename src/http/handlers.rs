@@ -1,4 +1,4 @@
-use crate::constants::*;
+use crate::utils::constants::*;
 use actix_web::{get, HttpResponse, Responder};
 use std::fs;
 

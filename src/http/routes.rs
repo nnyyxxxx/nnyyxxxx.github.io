@@ -1,4 +1,4 @@
-use crate::handlers;
+use crate::http::handlers;
 use actix_web::web;
 
 pub fn config() -> actix_web::Scope {
