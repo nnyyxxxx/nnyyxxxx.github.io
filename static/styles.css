@@ -1,77 +1,37 @@
 body {
-    background-color: #0D0C0F;
-    color: #efe1cb;
     margin: 0;
-    padding: 40px;
-    font-family: monospace;
-    line-height: 1.6;
-    font-size: 16px;
-}
-
-.manpage {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px 40px;
-    border: 1px solid #8A7B86;
-    border-radius: 4px;
-    white-space: pre-wrap;
-    word-wrap: break-word;
-}
-
-.header, .footer {
+    padding: 0;
+    height: 100vh;
     display: flex;
-    justify-content: space-between;
-    margin: 20px 0;
-    padding: 10px 0;
-    border-bottom: 1px solid #8A7B86;
+    justify-content: center;
+    align-items: center;
+    background-image: url('/static/baddie.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #f0f0f0;
+    font-family: 'Iosevka Term Nerd Font', 'Iosevka Term', 'Iosevka', monospace;
 }
 
-.footer {
-    border-top: 1px solid #8A7B86;
-    border-bottom: none;
-    margin-top: 40px;
-}
-
-.left, .center, .right {
-    flex: 1;
+.quote-container {
+    max-width: 600px;
+    padding: 2rem;
     text-align: center;
+    border: 1px solid #333;
+    border-radius: 5px;
+    background-color: rgba(26, 26, 26, 0.8);
+    box-shadow: 0 4px 8px #151515;
+    backdrop-filter: blur(2px);
 }
 
-.left {
-    text-align: left;
+.quote {
+    font-size: 1.5rem;
+    line-height: 1.6;
+    margin-bottom: 1rem;
 }
 
-.right {
+.author {
+    font-style: italic;
     text-align: right;
+    font-size: 1.2rem;
 }
-
-h1 {
-    font-size: 16px;
-    margin: 30px 0 10px 0;
-    text-transform: uppercase;
-}
-
-.indent {
-    margin-left: 40px;
-}
-
-dl {
-    margin: 10px 0;
-}
-
-dt {
-    margin-top: 15px;
-}
-
-dd {
-    margin-left: 60px;
-}
-
-a {
-    color: #CA9873;
-    text-decoration: underline;
-}
-
-a:hover {
-    text-decoration: underline;
-} 
