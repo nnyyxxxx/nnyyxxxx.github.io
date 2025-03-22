@@ -20,13 +20,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Setup public directory
         run: |
-          mkdir -p ./public/static
-          cp -r static/* ./public/static/
-          cp ./public/static/index.html ./public/
-      
+          mkdir -p ./public
+          cp -r static/* ./public/
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
