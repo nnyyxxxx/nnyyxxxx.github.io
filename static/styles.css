@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('/static/baddie.png');
+    background-image: url('baddie.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -27,6 +27,9 @@ body {
     font-size: 1.5rem;
     line-height: 1.6;
     margin-bottom: 1rem;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    hyphens: auto;
 }
 
 .author {
